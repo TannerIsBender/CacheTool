@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CacheTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CacheTool_jar</output-path>
+    <root id="archive" name="CacheTool.jar">
+      <element id="module-output" name="CacheTool" />
+    </root>
+  </artifact>
+</component>
